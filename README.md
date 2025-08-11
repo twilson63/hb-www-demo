@@ -25,8 +25,7 @@ npm i -g https://preview_ao.arweave.net
 ### 2. Create a Hyperbeam Process
 
 ```bash
-export AOS_MODULE="eESTT8y54b_KWRvVwwQVib-Oal-eLalREfrdaphjYuA"
-aos --mainnet http://localhost:8734 _mywebdemo
+aos --url http://localhost:8734 _mywebdemo
 ```
 
 ### 3. Load the Web Assets
