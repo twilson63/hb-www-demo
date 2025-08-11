@@ -12,7 +12,7 @@ This demo creates a web page with animated elephants marching across the screen.
 ## Prerequisites
 
 - Node.js and npm installed
-- Access to an AOS gateway (default: http://localhost:8734)
+- Access to an HyperBEAM (default: http://localhost:8734) - see https://hyperbeam.arweave.net
 
 ## Quick Start
 
